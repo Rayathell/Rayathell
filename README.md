@@ -6,13 +6,13 @@
 
  
 
-:computer: infrastructure analyst
+:computer: Data Analisys
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and improve my skills.
+:outbox_tray: 2023 Goals: create a new project and improve my skills.
 
 - Thanks for visiting.
 
